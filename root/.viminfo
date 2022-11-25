@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1669397258,,"wq"
+|2,0,1669401162,,"wq"
 ::wq
 |2,0,1668990346,,":wq"
 :q!
@@ -29,38 +29,57 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1669400453,"#"
 
 # File marks:
-'0  2  12  ~/0x01-git/bash/school
-|4,48,2,12,1669397258,"~/0x01-git/bash/school"
-'1  2  9  ~/0x01-git/bash/alx
-|4,49,2,9,1669397036,"~/0x01-git/bash/alx"
-'2  1  6  ~/0x02_emacs/quitting
-|4,50,1,6,1668990718,"~/0x02_emacs/quitting"
-'3  1  4  ~/0x02_emacs/undoing
-|4,51,1,4,1668990511,"~/0x02_emacs/undoing"
-'4  1  2  ~/0x02_emacs/searching
-|4,52,1,2,1668990346,"~/0x02_emacs/searching"
-'5  1  2  ~/0x02_emacs/pasting
-|4,53,1,2,1668990183,"~/0x02_emacs/pasting"
-'6  1  2  ~/0x02_emacs/cutting
-|4,54,1,2,1668990041,"~/0x02_emacs/cutting"
-'7  1  6  ~/0x02_emacs/saving
-|4,55,1,6,1668989751,"~/0x02_emacs/saving"
-'8  1  0  ~/0x02_vi/opening
-|4,56,1,0,1668987930,"~/0x02_vi/opening"
-'9  1  7  ~/0x02_vi/opening
-|4,57,1,7,1668987647,"~/0x02_vi/opening"
+'0  93  0  /.git/COMMIT_EDITMSG
+|4,48,93,0,1669401162,"/.git/COMMIT_EDITMSG"
+'1  2  12  ~/0x01-git/bash/school
+|4,49,2,12,1669397258,"~/0x01-git/bash/school"
+'2  2  9  ~/0x01-git/bash/alx
+|4,50,2,9,1669397036,"~/0x01-git/bash/alx"
+'3  1  6  ~/0x02_emacs/quitting
+|4,51,1,6,1668990718,"~/0x02_emacs/quitting"
+'4  1  4  ~/0x02_emacs/undoing
+|4,52,1,4,1668990511,"~/0x02_emacs/undoing"
+'5  1  2  ~/0x02_emacs/searching
+|4,53,1,2,1668990346,"~/0x02_emacs/searching"
+'6  1  2  ~/0x02_emacs/pasting
+|4,54,1,2,1668990183,"~/0x02_emacs/pasting"
+'7  1  2  ~/0x02_emacs/cutting
+|4,55,1,2,1668990041,"~/0x02_emacs/cutting"
+'8  1  6  ~/0x02_emacs/saving
+|4,56,1,6,1668989751,"~/0x02_emacs/saving"
+'9  1  0  ~/0x02_vi/opening
+|4,57,1,0,1668987930,"~/0x02_vi/opening"
 
 # Jumplist (newest first):
+-'  93  0  /.git/COMMIT_EDITMSG
+|4,39,93,0,1669401162,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1669400056,"/.git/COMMIT_EDITMSG"
 -'  2  12  ~/0x01-git/bash/school
 |4,39,2,12,1669397258,"~/0x01-git/bash/school"
+-'  2  12  ~/0x01-git/bash/school
+|4,39,2,12,1669397258,"~/0x01-git/bash/school"
+-'  1  0  ~/0x01-git/bash/school
+|4,39,1,0,1669397185,"~/0x01-git/bash/school"
 -'  1  0  ~/0x01-git/bash/school
 |4,39,1,0,1669397185,"~/0x01-git/bash/school"
 -'  2  9  ~/0x01-git/bash/alx
 |4,39,2,9,1669397036,"~/0x01-git/bash/alx"
 -'  2  9  ~/0x01-git/bash/alx
 |4,39,2,9,1669397036,"~/0x01-git/bash/alx"
+-'  2  9  ~/0x01-git/bash/alx
+|4,39,2,9,1669397036,"~/0x01-git/bash/alx"
+-'  2  9  ~/0x01-git/bash/alx
+|4,39,2,9,1669397036,"~/0x01-git/bash/alx"
+-'  1  0  ~/0x01-git/bash/alx
+|4,39,1,0,1669396894,"~/0x01-git/bash/alx"
+-'  1  0  ~/0x01-git/bash/alx
+|4,39,1,0,1669396894,"~/0x01-git/bash/alx"
 -'  1  0  ~/0x01-git/bash/alx
 |4,39,1,0,1669396894,"~/0x01-git/bash/alx"
 -'  1  0  ~/0x01-git/bash/alx
@@ -73,6 +92,30 @@
 |4,39,1,6,1668990718,"~/0x02_emacs/quitting"
 -'  1  6  ~/0x02_emacs/quitting
 |4,39,1,6,1668990718,"~/0x02_emacs/quitting"
+-'  1  6  ~/0x02_emacs/quitting
+|4,39,1,6,1668990718,"~/0x02_emacs/quitting"
+-'  1  6  ~/0x02_emacs/quitting
+|4,39,1,6,1668990718,"~/0x02_emacs/quitting"
+-'  1  6  ~/0x02_emacs/quitting
+|4,39,1,6,1668990718,"~/0x02_emacs/quitting"
+-'  1  6  ~/0x02_emacs/quitting
+|4,39,1,6,1668990718,"~/0x02_emacs/quitting"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
+-'  1  4  ~/0x02_emacs/undoing
+|4,39,1,4,1668990511,"~/0x02_emacs/undoing"
 -'  1  4  ~/0x02_emacs/undoing
 |4,39,1,4,1668990511,"~/0x02_emacs/undoing"
 -'  1  4  ~/0x02_emacs/undoing
@@ -121,6 +164,38 @@
 |4,39,1,2,1668990346,"~/0x02_emacs/searching"
 -'  1  2  ~/0x02_emacs/searching
 |4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
+-'  1  2  ~/0x02_emacs/searching
+|4,39,1,2,1668990346,"~/0x02_emacs/searching"
 -'  1  2  ~/0x02_emacs/pasting
 |4,39,1,2,1668990183,"~/0x02_emacs/pasting"
 -'  1  2  ~/0x02_emacs/pasting
@@ -181,80 +256,18 @@
 |4,39,1,2,1668990183,"~/0x02_emacs/pasting"
 -'  1  2  ~/0x02_emacs/pasting
 |4,39,1,2,1668990183,"~/0x02_emacs/pasting"
--'  1  2  ~/0x02_emacs/pasting
-|4,39,1,2,1668990183,"~/0x02_emacs/pasting"
--'  1  2  ~/0x02_emacs/pasting
-|4,39,1,2,1668990183,"~/0x02_emacs/pasting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
--'  1  2  ~/0x02_emacs/cutting
-|4,39,1,2,1668990041,"~/0x02_emacs/cutting"
 
 # History of marks within files (newest to oldest):
+
+> /.git/COMMIT_EDITMSG
+	*	1669401149	0
+	"	93	0
+	^	93	0
+	.	92	4
+	+	4	27
+	+	8	16
+	+	84	1
+	+	92	4
 
 > ~/0x01-git/bash/school
 	*	1669397248	0
