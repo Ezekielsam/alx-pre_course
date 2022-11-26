@@ -42,3 +42,57 @@ git clone
 exit
 git init
 exit
+cd
+git branch update_script
+git branch -a
+git checkout update_script
+touch bash/98
+cd
+ls
+cd bash
+git branch -a
+touch bash/98
+cd 0x01-git
+touch bash/98
+ls
+cd bash
+ls
+vi alx
+cat alx
+vi school
+cat school
+cd
+git add .
+git commit -m "My personal work"
+git push -u origin master
+git branch main
+git branch -a
+git checkout main
+ls
+clear
+ls
+cd 0x01-git
+ls
+cd bash
+ls
+vi alx
+cat alx
+cd..
+cd
+cd 0x01-git
+ls
+cd js
+ls
+rmdir js
+rm -r js
+cd
+rm -r js
+cd 0x01-git
+ls
+rm -rf js
+ls
+cd
+git add .
+git commit -m "Hot fix"
+git push -u origin main
+exit
